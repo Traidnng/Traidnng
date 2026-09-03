@@ -22,7 +22,7 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Traidnng&theme=dark&hide_border=true" alt="Fiorith Streak Stats" width="48%" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Traidnng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Traidnng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
