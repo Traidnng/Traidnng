@@ -4,7 +4,7 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Bildiğim Diller
 
 * **Diller:** Python, JavaScript, C++, Lua
 
@@ -12,7 +12,7 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 
 ### 🎯 İlgi Alanları & Çalışmalar
 
-* **Sistem & Otomasyon:** Discord & Oyun sunucusu entegrasyonları, bot otomasyonları, Linux sunucu yönetimi.
+* **Sistem & Otomasyon:** Discord & Oyun sunucusu entegrasyonları, bot otomasyonları, Linux sunucu yönetimi, Windows sunucu yönetimi.
 * **Tersine Mühendislik:** Process manipulation, bellek okuma/yazma (Memory Inspection) ve offset analizleri.
 ---
 
