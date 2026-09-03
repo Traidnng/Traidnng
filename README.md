@@ -7,8 +7,6 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 ### 🛠️ Teknolojiler & Araçlar
 
 * **Diller:** Python, JavaScript, C++, Lua
-* **Kütüphaneler & Frameworkler:** CustomTkinter, Node.js, Mineflayer, OpenCV, Pymem, discord.py
-* **Araçlar & Ortamlar:** Docker, LinuxGSM, Linux/Bash, Git, RocketMod
 
 ---
 
