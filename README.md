@@ -21,8 +21,8 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Traidnng&show_icons=true&theme=dark&hide_border=true" alt="Fiorith Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Traidnng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Traidnng&theme=dark&hide_border=true" alt="Fiorith Streak Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=Traidnng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
