@@ -6,7 +6,7 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 
 ### 🛠️ Bildiğim Diller
 
-* **Diller:** Python, C#, C++, Lua
+* **Diller:** Python, C#, C++, Lua, Java.
 
 ---
 
