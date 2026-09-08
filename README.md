@@ -31,4 +31,4 @@ Python, JavaScript ve C++ ile sistem araçları, sunucu otomasyonları, tersine 
 [![Discord Cwgaming](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kd4TREMSDp)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Traidnng)
 
-* **Discord:** `@traidnng1.`
+* **Discord:** `@traidnng1.` 
