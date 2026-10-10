@@ -50,11 +50,10 @@
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Traidnng&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
-### 🐍 Katkı Haritası
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Traidnng/Traidnng/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Traidnng/Traidnng/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Traidnng/Traidnng/output/github-snake-dark.svg">
-</picture>
 
-  
+---
+
+### 📈 GitHub Aktivite Grafiği
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Traidnng&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</p>
