@@ -84,12 +84,6 @@ Need high-performance bots, game exploits, or backend automation? Let's talk!
 
 <br/>
 
-<a href="https://steamcommunity.com/id/Traidnng/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</a>
-<a href="https://discord.gg/cwgaming" target="_blank">
-  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-</a>
 <a href="https://discord.com" target="_blank">
   <img src="https://img.shields.io/badge/Discord-traidnng1.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord User" />
 </a>
