@@ -1,59 +1,95 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Fiorith%20(Traidnng)&fontSize=38&fontColor=38bdf8&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Fiorith+%F0%9F%91%8B;Full+Stack+Web+Developer;Crafting+scalable+web+applications" alt="Goutam Septa - MERN Stack Developer" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=GoutamHX&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+</p>
+
+<a href="https://www.imgoutam.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:hello@imgoutam.dev">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/MR_GOUTAM08">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
 </div>
 
-<p align="center">
-  <b>System Tools &bull; Reverse Engineering &bull; Memory Analysis &bull; Automation</b>
-</p>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Traidnng&label=Profile%20Views&color=0ea5e9&style=flat-square" alt="Ziyaretçi Sayısı" />
-</p>
+## 👨‍💻 About Me
+
+🚀 I'm **Goutam Septa** — a **MERN Stack Developer** focused on building scalable web applications, SaaS products, Telegram bots, and modern user experiences.
+
+💡 Passionate about clean architecture, performance optimization, and solving real-world problems through technology.
+
+🛠️ **1.5+ years** of hands-on experience building production-ready web apps &nbsp;·&nbsp; 💬 **Open to collaboration**
 
 ---
 
-### ⚡ Hakkımda
-- 🔭 **Uzmanlık Alanlarım:** Sistem yazılımları, Process & Memory Manipulation, Oyun Güvenliği ve Tersine Mühendislik.
-- 💻 **Aktif Olarak Geliştirdiklerim:** Windows API & C++ araçları, Python otomasyonları ve bellek analiz scriptleri.
-- 🎯 **Hedefim:** Güvenli, optimize ve düşük seviyeli (low-level) sistem mimarileri geliştirmek.
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,redux,tailwind,bootstrap&perline=8" alt="Frontend skills" />
+
+**Backend &nbsp;•&nbsp; Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database skills" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+
+> Also crafting smooth, animated interfaces with **GSAP** & **Framer Motion** ✨
 
 ---
 
-### 🛠️ Teknolojiler & Beceriler
-
-<p align="left">
-  <!-- Diller -->
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <br/>
-  <!-- Alanlar / Araçlar -->
-  <img src="https://img.shields.io/badge/Memory_Analysis-red?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Win32_API-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reverse_Engineering-gray?style=for-the-badge&logo=binary" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
-
-### 📊 GitHub İstatistikleri & Aktiflik
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Traidnng&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Traidnng&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8" height="150" alt="Top Languages" />
-</div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Traidnng&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GoutamHX&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Goutam Septa GitHub Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GoutamHX&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoutamHX&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 ---
 
-### 📈 GitHub Aktivite Grafiği
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Traidnng&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GoutamHX/GoutamHX/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GoutamHX/GoutamHX/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/GoutamHX/GoutamHX/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+Looking for a reliable full-stack developer who can turn ideas into modern, fully functional web applications? I'd love to collaborate.
+
+<a href="https://www.imgoutam.dev">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:hello@imgoutam.dev">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/MR_GOUTAM08">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+</div>
