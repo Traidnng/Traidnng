@@ -22,29 +22,48 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm **Fiorith** — a **Developer** specialized in building custom bots, scalable backend systems, APIs, game exploits, and automation tools.
+🚀 I'm **Fiorith** — a **Developer** specialized in building custom bots, scalable backend architectures, APIs, game exploits, and smart automation tools.
 
 💡 Passionate about reverse engineering, game mechanics, performance optimization, and low-level logic.
 
-🛠️ **2.5+ years** of hands-on development experience &nbsp;·&nbsp; 💬 **Open to collaboration**
+🛠️ **1.5+ years** of hands-on development experience &nbsp;·&nbsp; 💬 **Open to collaboration**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages & Tools
 
-**Frontend**
+<p align="left">
+  <b>Languages & Core</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,html,css&perline=10" alt="Languages" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,redux,tailwind,bootstrap&perline=8" alt="Frontend skills" />
+<p align="left">
+  <b>Frontend & Frameworks</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&perline=10" alt="Frontend" />
+</p>
 
-**Backend &nbsp;•&nbsp; Database**
+<p align="left">
+  <b>Backend, Cloud & Database</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,aws,docker&perline=10" alt="Backend & Cloud" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database skills" />
+<p align="left">
+  <b>Tools, Reverse Engineering & Automation</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,linux,bash&perline=10" alt="Tools" />
+</p>
 
-**Tools**
+---
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" />
+## ⚙️ Things I Use to Get Stuff Done
 
-> Also crafting smooth, animated interfaces with **GSAP** & **Framer Motion** ✨
+| Category | Tools & Setup |
+| :--- | :--- |
+| **OS** | Windows 11 Pro / Linux (WSL2) |
+| **Code Editor** | VS Code *(The best editor out there)* |
+| **Terminal** | Windows Terminal (PowerShell & ZSH) |
+| **API & Debugging** | Postman, Fiddler, Chrome DevTools |
+| **Security & Privacy** | Bitwarden, Cloudflare WARP |
+| **Productivity** | Notion, Discord, Telegram |
 
 ---
 
@@ -84,6 +103,12 @@ Need high-performance bots, game exploits, or backend automation? Let's talk!
 
 <br/>
 
+<a href="https://steamcommunity.com/id/Traidnng/" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://discord.gg/cwgaming" target="_blank">
+  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
+</a>
 <a href="https://discord.com" target="_blank">
   <img src="https://img.shields.io/badge/Discord-traidnng1.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord User" />
 </a>
