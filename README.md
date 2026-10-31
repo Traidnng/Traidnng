@@ -33,37 +33,24 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <b>Languages & Core</b><br/>
+  <b>Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,html,css&perline=10" alt="Languages" />
 </p>
 
 <p align="left">
-  <b>Frontend & Frameworks</b><br/>
+  <b>Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap&perline=10" alt="Frontend" />
 </p>
 
 <p align="left">
-  <b>Backend, Cloud & Database</b><br/>
+  <b>Backend</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis,postgres,aws,docker&perline=10" alt="Backend & Cloud" />
 </p>
 
 <p align="left">
-  <b>Tools, Reverse Engineering & Automation</b><br/>
+  <b>Tools, Reverse Engineering</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,linux,bash&perline=10" alt="Tools" />
 </p>
-
----
-
-## ⚙️ Things I Use to Get Stuff Done
-
-| Category | Tools & Setup |
-| :--- | :--- |
-| **OS** | Windows 11 Pro / Linux (WSL2) |
-| **Code Editor** | VS Code *(The best editor out there)* |
-| **Terminal** | Windows Terminal (PowerShell & ZSH) |
-| **API & Debugging** | Postman, Fiddler, Chrome DevTools |
-| **Security & Privacy** | Bitwarden, Cloudflare WARP |
-| **Productivity** | Notion, Discord, Telegram |
 
 ---
 
@@ -103,12 +90,6 @@ Need high-performance bots, game exploits, or backend automation? Let's talk!
 
 <br/>
 
-<a href="https://steamcommunity.com/id/Traidnng/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-</a>
-<a href="https://discord.gg/cwgaming" target="_blank">
-  <img src="https://img.shields.io/badge/Discord%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-</a>
 <a href="https://discord.com" target="_blank">
   <img src="https://img.shields.io/badge/Discord-traidnng1.-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord User" />
 </a>
