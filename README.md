@@ -22,15 +22,15 @@
 
 ## 👨‍💻 About Me
 
-🚀 I'm **Fiorith** — a **Developer** specialized in building custom bots, scalable backend architectures, APIs, game exploits, and smart automation tools.
+🚀 I'm **Fiorith** — a  **Developer** focused on building Cheats and Exploits , Discord bots, Basic apps and modern user experiences
 
-💡 Passionate about reverse engineering, game mechanics, performance optimization, and low-level logic.
+💡 Passionate about Reverse Engineering and Game Mechanics technology.
 
 🛠️ **2.5+ years** of hands-on development experience &nbsp;·&nbsp; 💬 **Open to collaboration**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <p align="left">
   <b>Languages</b><br/>
@@ -48,7 +48,7 @@
 </p>
 
 <p align="left">
-  <b>Tools, Reverse Engineering</b><br/>
+  <b>Tools</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell,linux,bash&perline=10" alt="Tools" />
 </p>
 
