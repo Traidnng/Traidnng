@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Selam%2C+Ben+Fiorith+%F0%9F%91%8B;Developer;Making+Exploits+and+Cheats+for+Games" alt="Fiorith - Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Selam%2C+Ben+Fiorith+%F0%9F%91%8B;Simple+Developer" alt="Fiorith - Developer" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Traidnng&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
